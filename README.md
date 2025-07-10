@@ -16,7 +16,7 @@ The program displays a list of all available products, including the price and s
 
 In this step, product number 9 (Mouse) was selected, and 2 units were added to the cart:
 
-![Add to Cart](./images/add_mouse_to_cart.jpg)
+![Add to Cart](./images/add_product_to_cart.jpg)
 
 ---
 
