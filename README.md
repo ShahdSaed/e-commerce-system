@@ -1,4 +1,4 @@
-# Shopping Cart System
+# E Commerce System
 
 This project simulates a simple shopping system using a text-based interface, where the user can browse products, choose quantities, and proceed to checkout.
 
